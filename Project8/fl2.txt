@@ -1,0 +1,24 @@
+3,9615864416,45 Airport,Banglore,568004
+101,9903498628,40 Marathahalli,Banglore,581345
+46,9775856661,64 Kadubeesanahalli,Banglore,586901
+182,9483947630,64 Kadubeesanahalli,Banglore,587769
+176,9680649843,64 Kadubeesanahalli,Banglore,588458
+44,9827589343,1000 Yeshwantpur,Banglore,592155
+94,9283764841,2000 Yeshwantpur,Banglore,595443
+159,9491699900,1/2 Adarsh Nagar,Bhimavaram,500113
+8,9843627199,3/4 Gunupudi,Bhimavaram,505884
+13,9873273012,5/16 Narasimhapuram,Bhimavaram,512868
+20,9383578582,21/2 Raayalam,Bhimavaram,516920
+10,9540856630,2-1-2 Narasimhapuram,Bhimavaram,523074
+93,9069483892,3/14 Adarsh Nagar,Bhimavaram,526861
+75,9656409684,280/3 Srirampuram,Bhimavaram,527862
+40,9032233931,1/2 Pedamiram colony,Bhimavaram,534016
+105,9118636946,3/4/16 Raayalam,Bhimavaram,534046
+74,9179037758,11/3 Pedamiram colony,Bhimavaram,534785
+121,9209139286,10/1 Sivaraopeta,Bhimavaram,538004
+14,9493878355,11/2 Gandhinagar,Bhimavaram,538206
+103,9017628789,11/2 Gandhinagar,Bhimavaram,552319
+1,9701573683,1/14 Maruthi Nagar,Bhimavaram,552754
+70,9170620761,30/2 Gandhinagar,Bhimavaram,553256
+119,9315431343,16/6 Raayalam,Bhimavaram,553277
+48,9360551151,17/4 Pedamiram colony,Bhimavaram,559302

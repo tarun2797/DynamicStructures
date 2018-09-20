@@ -1,0 +1,20 @@
+1,Gloria,82,42,83,13,9979604191,4th STREET whitefield,Banglore,548121
+2,Clio,5,28,97,96,9372593544,1 Hebbal,Banglore,549200
+3,Shellie,51,25,89,94,9840390322,2 Hebbal,Banglore,559452
+4,Liberty,55,52,87,50,9681093873,3 Hebbal,Banglore,561693
+5,Zane,17,45,6,35,9476602719,34 Airport,Banglore,566689
+6,Tiger,68,4,75,98,9615864416,45 Airport,Banglore,568004
+7,Brynne,40,78,2,35,9754919684,64 Kadubeesanahalli,Banglore,568256
+8,Burton,74,97,69,25,9221347179,21 Kaduhasanahalli,Banglore,573166
+9,Troy,65,87,45,38,9903498628,40 Marathahalli,Banglore,581345
+10,Ifeoma,9,95,23,29,9402753835,6/4 Bellandur,Banglore,510144
+11,Joseph,17,30,100,95,9021927286,1/3 Marathahalli,Banglore,516535
+12,Jesse,93,96,10,66,9082750239,1/3 Marathahalli,Banglore,518119
+13,Hedley,65,55,56,41,9862979518,2/4 Jayanagar,Banglore,528538
+14,Stewart,84,27,95,61,9563028584,2-4-5 Jayanagar,Banglore,530847
+15,Keane,35,78,59,32,9080944499,1-4-5 Jayanagar,Banglore,533785
+16,Adam,70,56,3,43,9390883765,2-4-5 Jayanagar,Banglore,534679
+17,Caleb,86,67,9,27,9277142761,2-4-5 Jayanagar,Banglore,537382
+18,Genevieve,31,3,27,52,9457434522,1/3 Marathahalli,Banglore,539693
+19,Kieran,18,21,41,16,9871099218,1/3 Marathahalli,Banglore,541788
+20,Charde,89,100,69,18,9305099214,1-2-4 STREET Whitefield,Banglore,545820

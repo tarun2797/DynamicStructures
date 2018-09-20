@@ -1,0 +1,10 @@
+10,9402753835,6/4 Bellandur,Banglore,510144
+9,9021927286,1/3 Marathahalli,Banglore,516535
+8,9082750239,1/3 Marathahalli,Banglore,518119
+7,9862979518,2/4 Jayanagar,Banglore,528538
+6,9563028584,2-4-5 Jayanagar,Banglore,530847
+5,9080944499,1-4-5 Jayanagar,Banglore,533785
+4,9390883765,2-4-5 Jayanagar,Banglore,534679
+3,9277142761,2-4-5 Jayanagar,Banglore,537382
+2,9457434522,1/3 Marathahalli,Banglore,539693
+1,9871099218,1/3 Marathahalli,Banglore,5417881
